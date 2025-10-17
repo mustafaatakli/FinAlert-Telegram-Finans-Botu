@@ -24,9 +24,9 @@ Botu hemen çalıştırmak için gerekenler:
 
 ### 1. Projeyi Klonlayın
 
-```bash
+(```bash
 git clone <repository-url>
-cd FinAlert2
+cd FinAlert2)
 
 ### 2. Gereksinimleri Yükleyin
 
@@ -111,8 +111,8 @@ Zaman bazlı bildirim kurar.
 
 Kullanıcının etkileşimi ve botun yanıtı:
 
-```bash
-Kullanıcı: /portfoy ekle GramAltın 50 5800
+(```bash
+Kullanıcı: /portfoy ekle GramAltın 50 5800)
 
 Bot:
 ✅ Portföyünüze eklendi!
