@@ -24,26 +24,26 @@ Botu hemen çalıştırmak için gerekenler:
 
 ### 1. Projeyi Klonlayın
 
-(```bash
-git clone <repository-url>
-cd FinAlert2)
+-(```bash
+-git clone <repository-url>
+-cd FinAlert2)
 
 ### 2. Gereksinimleri Yükleyin
 
 
-pip install -r requirements.txt
+-pip install -r requirements.txt
 
 ### 3. Bot Token'ı Ayarlayın
 
-Telegram'da @BotFather'dan aldığınız BOT_TOKEN'ı config.py dosyasına ekleyin:
+-Telegram'da @BotFather'dan aldığınız BOT_TOKEN'ı config.py dosyasına ekleyin:
 
-config.py
-BOT_TOKEN = 'YOUR_BOT_TOKEN_HERE' 
-... diğer ayarlar
+-config.py
+-BOT_TOKEN = 'YOUR_BOT_TOKEN_HERE' 
+-... diğer ayarlar
 
 ### 4. Botu Başlatın
 
-python bot.py
+-python bot.py
 
 🎉 Artık botunuz çalışıyor! Telegram'da /start komutunu kullanarak test edebilirsiniz.
 
