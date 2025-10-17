@@ -167,11 +167,11 @@ Projeyi kendi amaçları doğrultusunda kullanacak geliştiriciler ve kullanıc�
 
 ---
 
-<img src="https://github.com/mustafaatakli/FinAlert-Telegram-Finans-Botu/blob/main/finalertimg/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-17%20213448.png" width="auto">
+<img src="https://github.com/mustafaatakli/FinAlert-Telegram-Finans-Botu/blob/main/finalertimg/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-17%20215218.png" width="auto">
 
 ---
 
-<img src="https://github.com/mustafaatakli/FinAlert-Telegram-Finans-Botu/blob/main/finalertimg/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-17%20184041.png" width="auto">
+<img src="https://github.com/mustafaatakli/FinAlert-Telegram-Finans-Botu/blob/main/finalertimg/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-17%20213448.png" width="auto">
 
 ---
 
