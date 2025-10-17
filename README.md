@@ -6,6 +6,7 @@
 
 ---
 
+```
 FinAlert/
 ├── alert_manager.py
 ├── bot.py
@@ -16,7 +17,8 @@ FinAlert/
 ├── requirements.txt
 ├── scrapers.py
 └── README.md
-
+```
+---
 
 ## ✨ Temel Özellikler
 
