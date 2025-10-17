@@ -1,6 +1,6 @@
 # 🤖 FinAlert – Telegram Finans Botu
 
-![FinAlert Logo/Bannerı (Placeholder)](https://via.placeholder.com/800x200?text=FinAlert+:+Telegram+Finans+Takip+Botu)
+![FinAlert Logo/Bannerı (Placeholder)](https://github.com/mustafaatakli/FinAlert-Telegram-Finans-Botu/blob/main/finalertimg/finalert.png)
 
 **FinAlert**, anlık piyasa verilerinden seviye bazlı uyarı sistemlerine, zamanlanmış raporlardan detaylı **Portföy Kâr/Zarar** takibine kadar tüm finansal ihtiyaçlarınızı tek bir Telegram botunda birleştiren kapsamlı bir çözümdür.
 
