@@ -30,16 +30,16 @@ cd FinAlert2)
 
 ### 2. Gereksinimleri Yükleyin
 
-# Sanal ortam oluşturup aktive etmeniz önerilir
+
 pip install -r requirements.txt
 
 ### 3. Bot Token'ı Ayarlayın
 
 Telegram'da @BotFather'dan aldığınız BOT_TOKEN'ı config.py dosyasına ekleyin:
 
-# config.py
+config.py
 BOT_TOKEN = 'YOUR_BOT_TOKEN_HERE' 
-# ... diğer ayarlar
+... diğer ayarlar
 
 ### 4. Botu Başlatın
 
