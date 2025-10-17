@@ -517,11 +517,18 @@ async def show_help(update: Update, context: ContextTypes.DEFAULT_TYPE):
     keyboard = [[InlineKeyboardButton("◀️ Ana Menü", callback_data='menu_main')]]
     reply_markup = InlineKeyboardMarkup(keyboard)
     
-    await update.callback_query.edit_message_text(
-        help_text,
-        reply_markup=reply_markup,
-        parse_mode='Markdown'
-    )
+    if update.callback_query:
+        await update.callback_query.edit_message_text(
+            help_text,
+            reply_markup=reply_markup,
+            parse_mode='Markdown'
+        )
+    else:
+        await update.message.reply_text(
+            help_text,
+            reply_markup=reply_markup,
+            parse_mode='Markdown'
+        )
 
 
 # ===== PORTFÖY MENÜSÜ =====
