@@ -6,8 +6,9 @@
 
 ---
 
+## Proje yapısı:
+
 ```
-Proje yapısı:
 FinAlert/
 ├── alert_manager.py
 ├── bot.py
