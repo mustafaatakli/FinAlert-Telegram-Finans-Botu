@@ -7,6 +7,7 @@
 ---
 
 ```
+Proje yapısı:
 FinAlert/
 ├── alert_manager.py
 ├── bot.py
