@@ -6,7 +6,7 @@
 
 ---
 
-## Proje yapısı:
+## 📁 Proje yapısı:
 
 ```
 FinAlert/
