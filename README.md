@@ -6,6 +6,18 @@
 
 ---
 
+FinAlert/
+├── alert_manager.py
+├── bot.py
+├── config.py
+├── database.py
+├── finalert.db
+├── portfolio_manager.py
+├── requirements.txt
+├── scrapers.py
+└── README.md
+
+
 ## ✨ Temel Özellikler
 
 | Modül | Açıklama |
