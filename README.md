@@ -10,15 +10,15 @@
 
 ```
 FinAlert/
-├── alert_manager.py
-├── bot.py
-├── config.py
-├── database.py
-├── finalert.db
-├── portfolio_manager.py
-├── requirements.txt
-├── scrapers.py
-└── README.md
+├── alert_manager.py      -> Uyarı yönetimi
+├── bot.py                -> Ana bot dosyası
+├── config.py             -> Yapılandırma ayarları
+├── database.py           -> Veritabanı modelleri
+├── finalert.db           -> SQLite veritabanı
+├── portfolio_manager.py  -> Portföy yönetimi
+├── requirements.txt      -> Python paketleri
+├── scrapers.py           -> Veri çekme fonksiyonları
+└── README.md             -> Dokümantasyon
 ```
 ---
 
