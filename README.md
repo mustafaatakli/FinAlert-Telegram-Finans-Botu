@@ -151,20 +151,20 @@ Projeyi kendi amaçları doğrultusunda kullanacak geliştiriciler ve kullanıc�
 
 ## 🖼️ Örnek Çalışma Görüntüleri
 
-<img src="https://github.com/mustafaatakli/FinAlert–Telegram-Finans-Botu/blob/main/finalertimg/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-17%20114212.png" width="auto">
+<img src="https://github.com/mustafaatakli/FinAlert-Telegram-Finans-Botu/blob/main/finalertimg/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-17%20190703.png" width="auto">
 ---
-<img src="https://github.com/mustafaatakli/FinAlert–Telegram-Finans-Botu/blob/main/finalertimg/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-17%20114212.png" width="auto">
+<img src="https://github.com/mustafaatakli/FinAlert-Telegram-Finans-Botu/blob/main/finalertimg/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-17%20202303.png" width="auto">
 ---
-<img src="https://github.com/mustafaatakli/FinAlert–Telegram-Finans-Botu/blob/main/finalertimg/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-17%20114212.png" width="auto">
+<img src="https://github.com/mustafaatakli/FinAlert-Telegram-Finans-Botu/blob/main/finalertimg/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-17%20183853.png" width="auto">
 ---
-<img src="https://github.com/mustafaatakli/FinAlert–Telegram-Finans-Botu/blob/main/finalertimg/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-17%20114212.png" width="auto">
+<img src="https://github.com/mustafaatakli/FinAlert-Telegram-Finans-Botu/blob/main/finalertimg/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-17%20184014.png" width="auto">
 ---
-<img src="https://github.com/mustafaatakli/FinAlert–Telegram-Finans-Botu/blob/main/finalertimg/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-17%20114212.png" width="auto">
+<img src="https://github.com/mustafaatakli/FinAlert-Telegram-Finans-Botu/blob/main/finalertimg/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-17%20184041.png" width="auto">
 ---
-<img src="https://github.com/mustafaatakli/FinAlert–Telegram-Finans-Botu/blob/main/finalertimg/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-17%20114212.png" width="auto">
+<img src="https://github.com/mustafaatakli/FinAlert-Telegram-Finans-Botu/blob/main/finalertimg/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-17%20184109.png" width="auto">
 ---
-<img src="https://github.com/mustafaatakli/FinAlert–Telegram-Finans-Botu/blob/main/finalertimg/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-17%20114212.png" width="auto">
+<img src="https://github.com/mustafaatakli/FinAlert-Telegram-Finans-Botu/blob/main/finalertimg/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-17%20202148.png" width="auto">
 ---
-<img src="https://github.com/mustafaatakli/FinAlert–Telegram-Finans-Botu/blob/main/finalertimg/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-17%20114212.png" width="auto">
+<img src="https://github.com/mustafaatakli/FinAlert-Telegram-Finans-Botu/blob/main/finalertimg/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-17%20184149.png" width="auto">
 ---
-<img src="https://github.com/mustafaatakli/FinAlert–Telegram-Finans-Botu/blob/main/finalertimg/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-17%20114212.png" width="auto">
+<img src="https://github.com/mustafaatakli/FinAlert-Telegram-Finans-Botu/blob/main/finalertimg/Gemini_Generated_Image_mvj55xmvj55xmvj5.png" width="auto">
