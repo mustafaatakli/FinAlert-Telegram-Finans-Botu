@@ -81,8 +81,8 @@ Zaman bazlı bildirim kurar.
 
 ## 🌐 Veri Kaynakları
 
--FinAlert, veri güvenilirliği için birden fazla kaynak kullanır ve bir kaynak başarısız olduğunda otomatik olarak yedeğe geçer.
--Bot, sırasıyla önceden tanımlanmış web sitelerinden veri çeker (Web Scraping) veya belirlenmiş API'ler üzerinden bilgi alır.
+FinAlert, veri güvenilirliği için birden fazla kaynak kullanır ve bir kaynak başarısız olduğunda otomatik olarak yedeğe geçer.
+Bot, sırasıyla önceden tanımlanmış web sitelerinden veri çeker (Web Scraping) veya belirlenmiş API'ler üzerinden bilgi alır.
 *Projede "test" amacıyla kullanılan web siteleri:
 
 | 🏷️ **Varlık** | 🥇 **Öncelikli Kaynak** | 🔁 **Yedek Kaynaklar** | ⏱️ **Güncelleme Sıklığı** |
@@ -111,14 +111,14 @@ Zaman bazlı bildirim kurar.
 
 Kullanıcının etkileşimi ve botun yanıtı:
 
-(```bash
+- (```bash
 Kullanıcı: /portfoy ekle GramAltın 50 5800)
 
-Bot:
-✅ Portföyünüze eklendi!
-📦 Gram Altın: 50 adet
-💰 Alış: ₺5,800.00 | Güncel: ₺5,782.43
-📉 Kâr/Zarar: ₺-878.50 (%-3.03)
+- Bot:
+- ✅ Portföyünüze eklendi!
+- 📦 Gram Altın: 50 adet
+- 💰 Alış: ₺5,800.00 | Güncel: ₺5,782.43
+- 📉 Kâr/Zarar: ₺-878.50 (%-3.03)
 
 ---
 
