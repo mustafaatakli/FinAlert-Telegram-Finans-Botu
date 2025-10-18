@@ -34,42 +34,40 @@ FinAlert/
 
 ---
 
-## 🚀 Başlangıç (4 Adım)
+## 🔧 Kurulum (4 Adım)
 
 Botu hemen çalıştırmak için gerekenler:
 
-### 1. Projeyi Klonlayın
-
-- (```bash
-- git clone <repository-url>
-- cd FinAlert2)
-
-### 2. Gereksinimleri Yükleyin
+1. Repo'yu klonlayın:
+   ```
+   git clone https://github.com/kullaniciadi/borsatakip-telegram-bot.git
+   cd FinAlert-Telegram-Finans-Botu
+   ```
 
 
-- pip install -r requirements.txt
+2. Gereksinimleri yükleyin:
+   ```
+   pip install -r requirements.txt
+   ```
 
-### 3. Bot Token'ı Ayarlayın
 
-- Telegram'da @BotFather'dan aldığınız BOT_TOKEN'ı config.py dosyasına ekleyin:
+3. `telegram_bot.py` dosyasında Telegram Bot Token'ınızı ayarlayın:
+   ```python
+   TOKEN = "BOTFATHER'DAN_ALDIĞINIZ_TOKENi BURAYA EKLEYİN!"
+   ```
 
-- config.py
-- BOT_TOKEN = 'YOUR_BOT_TOKEN_HERE' 
-- ... diğer ayarlar
 
-### 4. Botu Başlatın
-
-- python bot.py
-
+4. Bot'u çalıştırın:
+   ```
+   python bot.py
+   ```
 🎉 Artık botunuz çalışıyor! Telegram'da /start komutunu kullanarak test edebilirsiniz.
 
 ---
 
 ## ⏰ Zaman Bazlı Bildirim Komutları
 
-### /zaman
-Zaman bazlı bildirim kurar.
-
+"/zaman" komutu zaman bazlı bildirim kurar.
 **Seçenekler:**
 - Her saat
 - Her 4 saat
