@@ -53,7 +53,7 @@ Botu hemen çalıştırmak için gerekenler:
 
 3. `telegram_bot.py` dosyasında Telegram Bot Token'ınızı ayarlayın:
    ```python
-   TOKEN = "BOTFATHER'DAN_ALDIĞINIZ_TOKENi BURAYA EKLEYİN!"
+   TOKEN = "BOTFATHER'DAN_ALDIĞINIZ_TOKENi_BURAYA_EKLEYİN!"
    ```
 
 
@@ -125,10 +125,9 @@ Bot, sırasıyla önceden tanımlanmış web sitelerinden veri çeker (Web Scrap
 
 Kullanıcının etkileşimi ve botun yanıtı:
 
-- (```bash
+(```bash
 Kullanıcı: /portfoy ekle GramAltın 50 5800)
-
-- Bot:
+Bot:
 - ✅ Portföyünüze eklendi!
 - 📦 Gram Altın: 50 adet
 - 💰 Alış: ₺5,800.00 | Güncel: ₺5,782.43
