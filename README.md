@@ -2,7 +2,7 @@
 
 ![FinAlert Logo/Bannerı (Placeholder)](https://github.com/mustafaatakli/FinAlert-Telegram-Finans-Botu/blob/main/finalertimg/finalert.png)
 
-**FinAlert**, anlık piyasa verilerinden seviye bazlı uyarı sistemlerine, zamanlanmış raporlardan detaylı **Portföy Kâr/Zarar** takibine kadar tüm finansal ihtiyaçlarınızı tek bir Telegram botunda birleştiren kapsamlı bir çözümdür.
+**FinAlert**, anlık piyasa verilerinden seviye bazlı uyarı sistemlerine, zamanlanmış raporlardan detaylı Portföy Kâr/Zarar takibine kadar tüm finansal ihtiyaçlarınızı tek bir Telegram botunda birleştiren kapsamlı bir çözümdür. Tüm bu işlevleri sunarken, gücünü Python programlama dilinden ve güncel piyasa bilgilerini sağlamak için kullanılan Web Scraping (Veri Kazıma) yöntemlerinden alır. Bu teknik altyapı sayesinde FinAlert, kullanıcılarına hızlı, güvenilir ve eyleme geçirilebilir finansal veriler sunarak takip süreçlerini kolaylaştırır.
 
 ---
 
