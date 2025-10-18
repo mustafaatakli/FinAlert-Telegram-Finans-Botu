@@ -126,7 +126,7 @@ Bot, sırasıyla önceden tanımlanmış web sitelerinden veri çeker (Web Scrap
 Kullanıcının etkileşimi ve botun yanıtı:
 
 (```bash
-Kullanıcı: /portfoy ekle GramAltın 50 5800)
+Kullanıcı: /portfoy ekle GramAltın 50 5800)/n
 Bot:
 - ✅ Portföyünüze eklendi!
 - 📦 Gram Altın: 50 adet
