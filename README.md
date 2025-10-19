@@ -134,6 +134,7 @@ Bot:
 - 💰 Alış: ₺5,800.00 | Güncel: ₺5,782.43
 - 📉 Kâr/Zarar: ₺-878.50 (%-3.03)
 
+
 ---
 
 ## ⚠️ Önemli Yasal Uyarı
@@ -162,6 +163,10 @@ Projeyi kendi amaçları doğrultusunda kullanacak geliştiriciler ve kullanıc�
 - Projeyi **özelleştirebilir ve genişletebilir**.
 
 ---
+
+### Proje yakın zamanda 2. versiyonu olan FinAlert Web - Finans Takip Sistemi isimli , kullanıcılara **anlık piyasa verileri**, **günlük finans haberleri**, **e-posta bildirimleri** ve **portföy kar/zarar takibi** sunan kapsamlı bir web uygulama olarak hizmet verecektir.
+
+--- 
 
 ## 🖼️ Örnek Çalışma Görüntüleri
 
