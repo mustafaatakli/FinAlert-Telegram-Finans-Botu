@@ -40,7 +40,7 @@ Botu hemen çalıştırmak için gerekenler:
 
 1. Repo'yu klonlayın:
    ```
-   git clone https://github.com/kullaniciadi/borsatakip-telegram-bot.git
+   git clone https://github.com/kullaniciadi/FinAlert-Telegram-Finans-Botu.git
    cd FinAlert-Telegram-Finans-Botu
    ```
 
